@@ -1,0 +1,1 @@
+Very simple study django app containing restful api backend and react.js frontend
